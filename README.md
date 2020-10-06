@@ -1,3 +1,13 @@
+Implemented unit tests according to instructions in the tutorial.
+
+Codelabs for Android Developer Fundamentals
+
+Lesson 3: Testing, debugging, and using support libraries
+
+https://developer.android.com/courses/fundamentals-training/toc-v2
+
+
+
 SimpleCalc - Starter Code
 =========================
 
@@ -37,4 +47,3 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
-# android-tutorial-08
